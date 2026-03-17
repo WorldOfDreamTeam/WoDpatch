@@ -1,3 +1,4 @@
 Neues Textdokument.txt|4a514a2758195e5058a7f3acced3d0f2
+WoDPatcher.exe|cea6bc05f8d5b492b0dd92550014b216
 pack/item.wod|d54cdac8b71707f0d5f58bbf2d27a59e
 pack/item.wod2|30c962546fd162ec24debd58200f4964
