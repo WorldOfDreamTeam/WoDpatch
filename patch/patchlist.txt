@@ -1,1 +1,1 @@
-Patch/Neues Textdokument.txt|4
+Neues Textdokument.txt|4
