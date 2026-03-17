@@ -1,2 +1,2 @@
 Neues Textdokument.txt|4a514a2758195e5058a7f3acced3d0f2
-new.txt|27b3eb2a34f60592f88019865e5ff1fb
+news.txt|27b3eb2a34f60592f88019865e5ff1fb
